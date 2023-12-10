@@ -1,9 +1,9 @@
 
 # Project Title: Pipelined Double precision (fp64)      Floating point Multiplier
 
-* Bishal Kahar
+* Bishal Kahar- CS22M032
 
-* Balaji O S P- cs23z060
+* Balaji O S P- CS23Z060
 
 ## Project Structure
 
